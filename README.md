@@ -5,7 +5,7 @@ Huffman compresssion algorithm as part of CS241 assignment @ Oberlin College
 Instructions:
 
 ```
- ./encode book.txt   book.huf      # encodes book.txt and writes it to
+% ./encode book.txt   book.huf      # encodes book.txt and writes it to
                                     # book.huf
 
 % ./encode book.txt > book.huf      # encodes book.txt and writes it to
